@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 160" role="img" aria-label="One Stop Sports logo">
+<defs><linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#ff2a2a"/><stop offset="1" stop-color="#b90000"/></linearGradient></defs>
+<rect width="420" height="160" rx="16" fill="#060606"/>
+<path d="M22 118 C80 72 148 139 224 94 C274 65 329 60 398 37" fill="none" stroke="url(#r)" stroke-width="14" stroke-linecap="round" opacity=".95"/>
+<circle cx="354" cy="105" r="36" fill="#c76422" stroke="#111" stroke-width="5"/>
+<path d="M318 105h72M354 69v72M330 79c21 18 32 38 50 54M378 79c-21 18-32 38-50 54" stroke="#111" stroke-width="3.4" fill="none"/>
+<text x="28" y="62" font-family="Impact, Arial Black, sans-serif" font-size="52" fill="#fff" stroke="#e10600" stroke-width="2">ONE STOP</text>
+<text x="66" y="111" font-family="Impact, Arial Black, sans-serif" font-size="50" fill="#e10600" stroke="#fff" stroke-width="1.3">SPORTS</text>
+</svg>
